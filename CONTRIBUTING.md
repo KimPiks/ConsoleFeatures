@@ -1,4 +1,4 @@
-# Contributing to LoggerLib
+# Contributing to ConsoleFeatures
 
 First off, thanks for taking the time to contribute! ❤️
 
